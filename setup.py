@@ -39,6 +39,7 @@ setup(
         "cohere==4.33",
         "requests",
         "pypdf2",
+        "accelerate"
     ],
     extras_require={
         "dev": [
