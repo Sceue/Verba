@@ -39,7 +39,8 @@ setup(
         "cohere==4.33",
         "requests",
         "pypdf2",
-        "accelerate"
+        "accelerate",
+        "transformers"
     ],
     extras_require={
         "dev": [
