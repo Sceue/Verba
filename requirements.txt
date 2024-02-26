@@ -10,7 +10,7 @@ pytest
 setuptools
 wheel
 twine
-spacy==3.6.1
+spacy
 tiktoken==0.5.1
 sentence-transformers
 transformers
